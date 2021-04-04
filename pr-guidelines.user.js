@@ -5,7 +5,7 @@
 // @description  Code Review Checklist Extension Script
 // @author       itsRockyy
 // @match        https://github.com/*/pull/*
-// @updateURL    https://github.com/itsRockyy/pull-requests-utility/blob/master/pr-guidelines.user.js
+// @updateURL    https://github.com/itsRockyy/pull-requests-utility/raw/master/pr-guidelines.user.js
 // @grant        GM_addStyle
 // ==/UserScript==
 
