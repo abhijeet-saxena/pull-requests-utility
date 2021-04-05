@@ -5,7 +5,7 @@
 // @description  For harmonised and encouraging code review comments.
 // @author       itsRockyy
 // @match        https://github.com/*/pull/*
-// @updateURL    https://github.com/itsRockyy/pull-requests-utility/blob/master/yusomean.user.js
+// @updateURL    https://github.com/itsRockyy/pull-requests-utility/raw/master/yusomean.user.js
 // ==/UserScript==
 
 (function () {
