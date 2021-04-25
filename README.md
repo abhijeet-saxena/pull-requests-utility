@@ -16,3 +16,4 @@ For harmonised and encouraging code review comments.
 - Click <a href="https://github.com/itsRockyy/pull-requests-utility/raw/master/pr-guidelines.user.js">this</a> to install the PR-Guidelines script
 - Click <a href="https://github.com/itsRockyy/pull-requests-utility/raw/master/yusomean.user.js">this</a> to install the YUSoMean script
 - Refresh tabs to enable the script
+
