@@ -2,6 +2,7 @@
 
 This repository helps in making Pull Request approvals more effective and constructive
 
+<img src="./demo.gif">
 ## UI-Guidelines
 
 Tampermonkey script to enable a right side bar on Github pull requests. The right bar would contain the code review checklist to help reviewers perform efficient code reviews.
